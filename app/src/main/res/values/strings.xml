@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">homework1</string>
+    <string name="username">Username</string>
+    <string name="login">LOGIN</string>
+    <string name="like">👍</string>
+    <string name="click_if_you_like_this_login_page">Click if you like this login page</string>
+    <string name="username_or_email">username or email</string>
+    <string name="remember_me_on_this_device">Remember me on this device</string>
+    <string name="password">Password</string>
 </resources>
